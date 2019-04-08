@@ -1,6 +1,6 @@
 # Companies that mentor juniors in Tech! :thumbsup:
 
-## Background
+## What is this?
 I wrote a tweet (see https://twitter.com/runhappylife/status/1113772742036348928) that generated a ton of useful links that I wanted to share as a resource for all people looking to get their start in Tech as a software developer, web developer, front and back end developer, etc. Also, those looking for product and UI/UX designer roles are included too!
 
 ## Who is this for?
