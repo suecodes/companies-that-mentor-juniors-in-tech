@@ -13,13 +13,13 @@ There is no reason why you cannot use this list to find an internship! Check the
 ## Any remote positions? 
 This question will inevitably come up. I have not filtered this list to identify remote positions. It is best to check with the company yourself and see if they are open to remote. You never know, they might accept remote but be aware it is rare to get junior remote roles. It is easier to mentor if you are physically in the office and you get the full benefit of a mentoring program. 
 
-# Word of Advice 
+## Word of Advice 
 I have put in a lot of time to put this list together to share with you however given the length of the list I cannot personally vet each company to verify that each company does support and develop junior roles with mentoring. I am relying on the goodness and honesty of each person that responded to my tweet to tell me about these companies to put them on the list. Please do your own research into the company you are considering applying for and ensure it is a good fit for your needs. 
 
 ## Can you help?
 Glad you asked! If you found this resource useful or found a job through this list and found the company true to their word in providing mentoring to juniors then I'd love to hear from you. If you know of a company that is not on this list and you know they provide mentoring to juniors please do let me know at https://twitter.com/runhappylife?lang=en on Twitter! Alternatively if you know or work for a company that is not providing mentoring and is on this list, please do let me know do I can remove it. I would like to maintain the integrity of this list, keep it relevant and up to date however I need your support to do this. 
 
-## List of Companies
+# List of Companies
 | Company Name | Website | Twitter | Country
 | ------ | ------ | ------ | ------ 
 | Radial Development Group | https://radialdevgroup.com | @radialdevgroup | USA 
@@ -151,8 +151,9 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Capital One | https://www.capitalone.com/ | @CapitalOne | USA
 | Red Ventures | https://www.redventures.com/ | @RedVentures | USA
 
-## Companies Planning to implement a Mentoring program in the future
+# Companies Planning to implement a Mentoring program in the future
 Below is a list of companies that have indicated they plan to implement a mentoring program in the future. There will be reasons why these cannot hire juniors or provide mentoring but keep an eye out as you may find an opportunity there in the future!
+
 | Company Name | Website | Twitter 
 | ------ | ------ | ------ 
 | Vulpine Designs | https://www.vulpinedesigns.com/ | @VulpineDesigns 
