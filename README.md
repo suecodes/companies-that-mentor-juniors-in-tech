@@ -1,4 +1,4 @@
-# companies-that-mentor
+# companies-that-mentor-juniors-in-tech
 
 
 # Background
