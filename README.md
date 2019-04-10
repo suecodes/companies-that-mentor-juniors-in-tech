@@ -34,7 +34,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | RxNT | https://www.rxnt.com/ | @RxNTSolutions | USA
 | MariaDB | https://www.mariadb.com/ | @mariadb | USA, UK, Europe
 | Sky | https://careers.sky.com/ | @workforsky | UK
-| BluJay Solutions | https://www.blujaysolutions.com/ | USA, Netherlands, India, UK, New Zealand, Singapore
+| BluJay Solutions | https://www.blujaysolutions.com/ | @myblujay | USA, Netherlands, India, UK, New Zealand, Singapore
 | mySideWalk | https://mysidewalk.com/ | @mysidewalkHQ | USA
 | Perficient | https://www.perficient.com/ | @Perficient | USA, Canada
 | Stackery.io | https://www.stackery.io/ | @stackeryio | USA
