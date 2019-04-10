@@ -155,5 +155,5 @@ Below is a list of companies that have indicated they plan to implement a mentor
 
 | Company Name | Website | Twitter 
 | ------ | ------ | ------ 
-| Vulpine Designs | https://www.vulpinedesigns.com/ | @VulpineDesigns 
 | Active Campaign | https://www.activecampaign.com/ | @ActiveCampaign 
+| Vulpine Designs | https://www.vulpinedesigns.com/ | @VulpineDesigns 
