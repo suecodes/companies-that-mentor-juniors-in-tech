@@ -77,6 +77,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | HashiCorp | https://www.hashicorp.com/ | @HashiCorp | USA, Canada, Europe, UK
 | HCSS | https://www.hcss.com/ | @hcss | USA
 | Heady | https://www.heady.io/ | @makeitheady | USA, India
+| Hi Marley | https://www.himarley.com/ | N/A | USA
 | HolidayCheck | https://apprenticeship.holidaycheck.com/ | @HolidayCheckLab | Germany, Switzerland, Poland
 | Home Office Digital | https://hodigital.blog.gov.uk | @HODigital | UK
 | Infinite Red | https://infinite.red/ | @infinite_red | USA
@@ -145,6 +146,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | University of Manitoba | http://umanitoba.ca/ | @umanitoba | Canada
 | Unmade | https://www.unmade.com/ | @unmadeworks | UK
 | Verys | https://verys.com/ | @VerysLLC | USA
+| Wayfair | https://www.wayfair.com/ | @wayfair | USA, Canada, UK, Ireland, Germany
 | Wi-Tronix | https://www2.wi-tronix.com/ | @WiTronix | USA
 | withsupport | http://www.withsupport.co.uk/ | @withsupportltd | UK
 | Wyzetalk | https://www.wyzetalk.com/ | @wyzetalk | South Africa
