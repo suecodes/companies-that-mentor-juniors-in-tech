@@ -16,6 +16,8 @@ There is no reason why you cannot use this list to find an internship! Check the
 
 This question will inevitably come up. I have not filtered this list to identify remote positions. It is best to check with the company yourself and see if they are open to remote. You never know, they might accept remote but be aware it is rare to get junior remote roles. It is easier to mentor if you are physically in the office and you get the full benefit of a mentoring program.
 
+Edit: A "remote-friendly" column has been added (thanks @watadarkstar for doing this). This is blank for now as I don't have the time to check, but if you know a company is remote friendly, send me a message and I'll update the list. 
+
 ## Word of Advice
 
 ## Can you help?
@@ -72,7 +74,9 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Everi                      | https://www.everi.com/                                | @everi_inc               | USA, Canada                                                                            |
 | eWorker                    | http://www.eworker.co/                                | @eworker_co              | Lagos, UK                                                                              |
 | Expedia Group              | https://www.expediagroup.com/                         | @ExpediaGroup            | Worldwide                                                                              |
-| EY                         | https://www.ey.com/                                   | @EYnews                  | UK                                                                                     |
+| EY                         | https://www.ey.com/                                   | @EYnews                  | UK           
+| Formidable Labs | https://formidable.com/ | @formidablelabs | USA | Yes
+
 | Founders of the Future     | https://foundersofthefuture.co/                       | @founders_future         | UK                                                                                     |
 | Glitch                     | https://glitch.com/                                   | @glitch                  | USA                                                                                    |
 | GOJEK                      | https://www.gojek.io/                                 | @gojektech               | Bangalore, Jakarta, Singapore, Bali, Bangkok, Manila, Gurugram                         |
