@@ -34,7 +34,8 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Agira Technologies         | https://www.agiratech.com/                            | @agiratech               | India, USA                                                                             |
 | AirCall                    | https://aircall.io/                                   | @aircall                 | USA, France                                                                            |
 | Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali                                                   |
-| AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK                                                                                     |
+| AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK 
+| Asana | https://asana.com/ | @asana | USA, Canada
 | Baringa                    | https://www.baringa.com/en/                           | @Baringa                 | UK                                                                                     |
 | BD Medical                 | https://www.bd.com/en-us                              | @BDandCo                 | USA (Salt Lake City)                                                                   |
 | BizStream                  | https://www.bizstream.com/                            | @TeamBizStream           | USA                                                                                    |
