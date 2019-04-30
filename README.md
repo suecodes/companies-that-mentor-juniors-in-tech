@@ -1,4 +1,4 @@
-# Companies that mentor juniors in Tech! :thumbsup:
+# Companies that mentor juniors in Tech! :thumbsup: [![Open Source Helpers](https://www.codetriage.com/suecodes/companies-that-mentor-juniors-in-tech/badges/users.svg)](https://www.codetriage.com/suecodes/companies-that-mentor-juniors-in-tech)
 
 ## What is this?
 
