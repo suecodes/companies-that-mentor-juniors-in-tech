@@ -62,6 +62,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | CSIS                       | https://www.csis.org/                                 | @CSIS                    | USA                                                                                    |
 | DataGrail                  | https://datagrail.io/                                 | @DataGrail               | USA                                                                                    |
 | Dell                       | https://www.delltechnologies.com/en-us/index.htm      | @CareersAtDell @DellTech | Worldwide                                                                              |
+| Delphix                       | https://www.delphix.com/      | @delphix | USA, India, Canada                                                                              | Yes
 | Detroit Labs               | https://www.detroitlabs.com/                          | @DetroitLabs             | USA                                                                                    |
 | Digital Surgeons           | https://www.digitalsurgeons.com                       | @digitalsurgeons         | USA                                                                                    |
 | Discogs                    | https://www.discogs.com/                              | @discogs                 | USA, Netherlands                                                                       |
