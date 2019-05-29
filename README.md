@@ -33,7 +33,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Adtran                     | https://www.adtran.com/                               | @ADTRAN                  | USA, India                                                                             |
 | Agira Technologies         | https://www.agiratech.com/                            | @agiratech               | India, USA                                                                             |
 | AirCall                    | https://aircall.io/                                   | @aircall                 | USA, France                                                                            |
-| Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali                                                   |
+| Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali | Yes                                                  |
 | AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK 
 | Asana | https://asana.com/ | @asana | USA, Canada
 | Baringa                    | https://www.baringa.com/en/                           | @Baringa                 | UK                                                                                     |
@@ -72,7 +72,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Entelect                   | https://www.entelect.co.za/                           | @Entelect                | USA                                                                                    |
 | Enterprise Holdings        | https://careers.enterprise.com/                       | @EHCareersGO             | USA                                                                                    |
 | Entrée Health              | http://entreehealth.com/                              | @EntreeHealthNY          | USA                                                                                    |
-| Eventbrite Engineering     | https://www.eventbrite.com/engineering/               | @evbeng                  | USA, Australia, Europe, Latin America, UK & Ireland                                    |
+| Eventbrite Engineering     | https://www.eventbrite.com/engineering/               | @evbeng                  | USA, Australia, Europe, Latin America, UK & Ireland | Yes                                   |
 | Everi                      | https://www.everi.com/                                | @everi_inc               | USA, Canada                                                                            |
 | eWorker                    | http://www.eworker.co/                                | @eworker_co              | Lagos, UK                                                                              |
 | Expedia Group              | https://www.expediagroup.com/                         | @ExpediaGroup            | Worldwide                                                                              |
@@ -84,13 +84,13 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Google                     | https://about.google/                                 | @Google                  | Worldwide                                                                              |
 | Government Digital Service | https://gds.blog.gov.uk/                              | @GDSTeam                 | UK                                                                                     |
 | Gusto                      | https://gusto.com/                                    | @GustoHQ                 | USA                                                                                    |
-| HashiCorp                  | https://www.hashicorp.com/                            | @HashiCorp               | USA, Canada, Europe, UK                                                                |
+| HashiCorp                  | https://www.hashicorp.com/                            | @HashiCorp               | USA, Canada, Europe, UK | Yes                                                               |
 | HCSS                       | https://www.hcss.com/                                 | @hcss                    | USA                                                                                    |
 | Heady                      | https://www.heady.io/                                 | @makeitheady             | USA, India                                                                             |
 | Hi Marley                  | https://www.himarley.com/                             | N/A                      | USA                                                                                    |
 | HolidayCheck               | https://apprenticeship.holidaycheck.com/              | @HolidayCheckLab         | Germany, Switzerland, Poland                                                           |
 | Home Office Digital        | https://hodigital.blog.gov.uk                         | @HODigital               | UK                                                                                     |
-| Infinite Red               | https://infinite.red/                                 | @infinite_red            | USA                                                                                    |
+| Infinite Red               | https://infinite.red/                                 | @infinite_red            | USA | Yes                                                                                   |
 | Jyllands-Posten            | https://jyllands-posten.dk/                           | @jyllandsposten          | Denmark                                                                                |
 | Kurin                      | https://www.kurin.com/                                | n/a                      | USA                                                                                    |
 | Legendary Supply Chain     | https://legendarysupplychain.com/                     | @LegendarySupply         | USA                                                                                    |
@@ -98,7 +98,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Louder Than Ten            | https://louderthanten.com/                            | @louderthanten           | Canada                                                                                 |
 | LSTE                       | https://ltse.com/                                     | @lste                    | USA                                                                                    |
 | MailChimp                  | https://mailchimp.com/                                | @mailchimp               | USA                                                                                    |
-| MariaDB                    | https://www.mariadb.com/                              | @mariadb                 | USA, UK, Europe                                                                        |
+| MariaDB                    | https://www.mariadb.com/                              | @mariadb                 | USA, UK, Europe | Yes                                                                       |
 | MHP Americas               | https://usa.mhp.com/                                  | n/a                      | USA                                                                                    |
 | Modomoto                   | https://www.modomoto.de/                              | @MODOMOTO_de             | Germany                                                                                |
 | mParticle                  | https://www.mparticle.com/                            | @mParticle               | USA, UK                                                                                |
@@ -117,7 +117,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Perficient                 | https://www.perficient.com/                           | @Perficient              | USA, Canada                                                                            |
 | Pillar Technology          | https://pillartechnology.com/                         | @PillarTech              | USA                                                                                    |
 | Pillar Technology          | https://pillartechnology.com/                         | @PillarTech              | USA                                                                                    |
-| Pivotal                    | https://pivotal.io/                                   | @pivotal                 | Worldwide                                                                              |
+| Pivotal                    | https://pivotal.io/                                   | @pivotal                 | Worldwide | Yes                                                                             |
 | Pluralsight                | https://www.pluralsight.com                           | @pluralsight             | USA, Ireland, UK, Australia, Canada, Sweden                                            |
 | Podium Engineering         | https://podium.com                                    | @podium_eng              | USA                                                                                    |
 | Quicken Loans              | https://quickenloanscareers.com/                      | @QLCareers               | USA                                                                                    |
@@ -126,7 +126,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Rangle                     | https://rangle.io/                                    | @rangleio                | Canada, USA                                                                            |
 | Rapid7                     | https://www.rapid7.com/                               | @rapid7                  | Worldwide                                                                              |
 | Readify                    | https://readify.net/                                  | @readify                 | Australia                                                                              |
-| Red Hat                    | https://www.redhat.com/en                             | @RedHat                  | Worldwide                                                                              |
+| Red Hat                    | https://www.redhat.com/en                             | @RedHat                  | Worldwide | Yes                                                                             |
 | Red Ventures               | https://www.redventures.com/                          | @RedVentures             | USA                                                                                    |
 | Redfin Solutions           | https://redfinsolutions.com/                          | @redfinsolutions         | USA                                                                                    |
 | REDspace                   | www.redspace.com                                      | @theredspace             | Canada                                                                                 |
@@ -136,7 +136,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Rural Sourcing             | https://www.ruralsourcing.com/                        | @RuralSourcing           | USA                                                                                    |
 | RxNT                       | https://www.rxnt.com/                                 | @RxNTSolutions           | USA                                                                                    |
 | Sharpest Minds             | https://www.sharpestminds.com/                        | @SharpestMindsAI         | Canada                                                                                 |
-| Shopify                    | https://www.shopify.com/                              | @Shopify                 | Canada, USA, Australia, Germany, Japan, Singapore, Bangalore, Sweden, Lithuania, China |
+| Shopify                    | https://www.shopify.com/                              | @Shopify                 | Canada, USA, Australia, Germany, Japan, Singapore, Bangalore, Sweden, Lithuania, China | Yes
 | Shout                      | https://shout-app.com/                                | @ShoutMobileApp          | UK                                                                                     |
 | Sky                        | https://careers.sky.com/                              | @workforsky              | UK                                                                                     |
 | Space Careers              | https://spacecareers.uk/                              | @SpaceCareersUK          | UK                                                                                     |
@@ -151,7 +151,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Trilogy Education          | https://www.trilogyed.com/                            | @Trilogyedu              | USA                                                                                    |
 | UC San Diego               | https://jobs.ucsd.edu/                                | @UCSanDiego              | USA                                                                                    |
 | UKSEDS                     | https://ukseds.org/                                   | @UKSEDS                  | UK                                                                                     |
-| Unbounce                   | https://unbounce.com/                                 | @unbounce                | Canada, Berlin                                                                         |
+| Unbounce                   | https://unbounce.com/                                 | @unbounce                | Canada, Berlin | Yes                                                                        |
 | Unity                      | https://unity3d.com/community                         | @unity3d                 | Worldwide                                                                              |
 | University of Manitoba     | http://umanitoba.ca/                                  | @umanitoba               | Canada                                                                                 |
 | Unmade                     | https://www.unmade.com/                               | @unmadeworks             | UK                                                                                     |
