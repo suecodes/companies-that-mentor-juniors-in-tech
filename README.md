@@ -6,7 +6,7 @@ I wrote a tweet (see https://twitter.com/runhappylife/status/1113772742036348928
 
 ## Who is this for?
 
-This not just for people who are looking to make their start in their IT career. It is also for people who are mid-level/senior and have spent years in the IT industry honing their craft and want to pass on their knowledge as mentors to support the next generation of people coming into Tech. Without these mentors, junior developers will not get the support they need to grow and become better developers.
+This is not just for people who are looking to make their start in their IT career, but also for people who are mid-level/senior and have spent years in the IT industry honing their craft and want to pass on their knowledge as mentors to support the next generation of people coming into tech. Without these mentors, junior developers will not get the support they need to grow and become better developers.
 
 ## What about Interns?
 
@@ -22,7 +22,7 @@ Edit: A "remote-friendly" column has been added (thanks @watadarkstar for doing 
 
 ## Can you help?
 
-Glad you asked! If you found this resource useful or found a job through this list and found the company true to their word in providing mentoring to juniors then I'd love to hear from you. If you know of a company that is not on this list and you know they provide mentoring to juniors please do let me know at https://twitter.com/runhappylife?lang=en on Twitter! Alternatively if you know or work for a company that is not providing mentoring and is on this list, please do let me know do I can remove it. I would like to maintain the integrity of this list, keep it relevant and up to date however I need your support to do this.
+Glad you asked! If you found this resource useful or found a job through this list and found the company true to their word in providing mentoring to juniors then I'd love to hear from you. If you know of a company that is not in this list and you know they provide mentoring to juniors please do let me know at https://twitter.com/runhappylife?lang=en on Twitter! Alternatively if you know or work for a company that is not providing mentoring and is on this list, please do let me know so that I can remove it. I would like to maintain the integrity of this list, keep it relevant and up to date however I need your support to do this.
 
 # List of Companies
 
@@ -34,7 +34,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Agira Technologies         | https://www.agiratech.com/                            | @agiratech               | India, USA                                                                             |
 | AirCall                    | https://aircall.io/                                   | @aircall                 | USA, France                                                                            |
 | Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali                                                   |
-| AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK 
+| AWS re:Start               | https://aws-restart.com/                              | N/A                      | UK 
 | Asana | https://asana.com/ | @asana | USA, Canada
 | Baringa                    | https://www.baringa.com/en/                           | @Baringa                 | UK                                                                                     |
 | BD Medical                 | https://www.bd.com/en-us                              | @BDandCo                 | USA (Salt Lake City)                                                                   |
@@ -92,18 +92,18 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Home Office Digital        | https://hodigital.blog.gov.uk                         | @HODigital               | UK                                                                                     |
 | Infinite Red               | https://infinite.red/                                 | @infinite_red            | USA                                                                                    |
 | Jyllands-Posten            | https://jyllands-posten.dk/                           | @jyllandsposten          | Denmark                                                                                |
-| Kurin                      | https://www.kurin.com/                                | n/a                      | USA                                                                                    |
+| Kurin                      | https://www.kurin.com/                                | N/A                      | USA                                                                                    |
 | Legendary Supply Chain     | https://legendarysupplychain.com/                     | @LegendarySupply         | USA                                                                                    |
 | LexisNexis Risk Solutions  | https://risk.lexisnexis.com/                          | @LexisNexisRisk          | USA, UK, Ireland, Brazil                                                               |
 | Louder Than Ten            | https://louderthanten.com/                            | @louderthanten           | Canada                                                                                 |
 | LSTE                       | https://ltse.com/                                     | @lste                    | USA                                                                                    |
 | MailChimp                  | https://mailchimp.com/                                | @mailchimp               | USA                                                                                    |
 | MariaDB                    | https://www.mariadb.com/                              | @mariadb                 | USA, UK, Europe                                                                        |
-| MHP Americas               | https://usa.mhp.com/                                  | n/a                      | USA                                                                                    |
+| MHP Americas               | https://usa.mhp.com/                                  | N/A                      | USA                                                                                    |
 | Modomoto                   | https://www.modomoto.de/                              | @MODOMOTO_de             | Germany                                                                                |
 | mParticle                  | https://www.mparticle.com/                            | @mParticle               | USA, UK                                                                                |
 | Mr Jeff App                | https://mrjeffapp.net/es                              | @mrjeffapp               | Spain                                                                                  |
-| MYOB                       | https://www.myob.com/au                               | @@MYOB                   | Australia                                                                              |
+| MYOB                       | https://www.myob.com/au                               | @MYOB                   | Australia                                                                              |
 | mySideWalk                 | https://mysidewalk.com/                               | @mysidewalkHQ            | USA                                                                                    |
 | NAB                        | https://www.nab.com.au/                               | @NAB                     | AUstralia                                                                              |
 | New Relic                  | https://www.newrelic.com/                             | @newrelic                | Worldwide                                                                              |
@@ -115,7 +115,6 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Ozmo                       | https://www.ozmo.com/                                 | @OzmoApp                 | USA                                                                                    |
 | Pager Duty                 | https://www.pagerduty.com/                            | @PagerDuty               | USA, Australia, UK, Canada                                                             |
 | Perficient                 | https://www.perficient.com/                           | @Perficient              | USA, Canada                                                                            |
-| Pillar Technology          | https://pillartechnology.com/                         | @PillarTech              | USA                                                                                    |
 | Pillar Technology          | https://pillartechnology.com/                         | @PillarTech              | USA                                                                                    |
 | Pivotal                    | https://pivotal.io/                                   | @pivotal                 | Worldwide                                                                              |
 | Pluralsight                | https://www.pluralsight.com                           | @pluralsight             | USA, Ireland, UK, Australia, Canada, Sweden                                            |
@@ -164,7 +163,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 
 # Companies Planning to implement a Mentoring program in the future
 
-Below is a list of companies that have indicated they plan to implement a mentoring program in the future. There will be reasons why these cannot hire juniors or provide mentoring but keep an eye out as you may find an opportunity there in the future!
+Below is a list of companies that have indicated that they plan to implement a mentoring program in the future. There will be reasons why these cannot hire juniors or provide mentoring but keep an eye out as you may find an opportunity there in the future!
 
 | Company Name    | Website                         | Twitter         |
 | --------------- | ------------------------------- | --------------- |
