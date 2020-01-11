@@ -36,6 +36,7 @@ Glad you asked! If you found this resource useful or found a job through this li
 | Andela                     | https://andela.com/                                   | @Andela                  | USA, Lagos, Nairobi, Kampala, Kigali                                                   |
 | AWS re:Start               | https://aws-restart.com/                              | n/a                      | UK 
 | Asana | https://asana.com/ | @asana | USA, Canada
+| Axle Informatics | https://axleinfo.com | NA | Maryland, USA
 | Baringa                    | https://www.baringa.com/en/                           | @Baringa                 | UK                                                                                     |
 | BD Medical                 | https://www.bd.com/en-us                              | @BDandCo                 | USA (Salt Lake City)                                                                   |
 | BizStream                  | https://www.bizstream.com/                            | @TeamBizStream           | USA                                                                                    |
